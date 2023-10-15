@@ -1,0 +1,49 @@
+.main {
+    display: flex;
+    flex-direction: row;
+}
+
+.overview {
+    display: flex;
+    margin-left: 50px;
+}
+
+.overview img {
+    width: 200px;
+    margin-top: 10px;
+    border: 1px solid #ffb7c5;
+}
+
+.details p {
+    margin-top: 40px;
+    font-size: 15px;
+}
+
+.details a {
+    cursor: pointer;
+}
+
+.details {
+    background-color: rgb(35,35,35);
+    border-radius: 20px;
+    padding: 2rem;
+    border: 5px solid rgb(25,25,25);
+    height: 400px;
+    margin-left: 50px;
+}
+
+.details h1 {
+    margin-bottom: 20px;
+}
+
+.details button {
+    margin-top: 20px;
+    width: 180px;
+    height: 50px;
+    background-color: #ffb7c5;
+    color: black;
+    font-size: 20px;
+    border-radius: 15px;
+    border: 0px;
+    cursor: pointer;
+}

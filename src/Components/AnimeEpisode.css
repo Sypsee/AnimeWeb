@@ -1,0 +1,33 @@
+iframe {
+    width: 800px;
+    height: 450px;
+}
+
+.video {
+    margin-top: -50px;
+    margin-left: 400px;
+}
+
+.list {
+    display: flex;
+    align-items: center;
+    margin-top: -450px;
+    gap: 20px;
+    background-color: rgb(30,30,30);
+    width: 300px;
+    margin-left: 20px;
+}
+
+.list h1 {
+    text-align: center;
+    width: 300px;
+}
+
+.list p {
+    text-align: center;
+    width: 200px;
+    font-size: 20px;
+    background-color: #ffb7c5;
+    color: black;
+    font-size: bolder;
+}

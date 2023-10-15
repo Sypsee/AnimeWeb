@@ -1,0 +1,22 @@
+div {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
+h1 {
+    color: #ffb7c5;
+}
+
+.popular-anime {
+    display: flex;
+    flex-direction: row;
+    margin-left: 20px;
+    margin-right: 0;
+    width: 100%;
+    gap: 20px;
+}
+
+.popular-anime img {
+    height: 300px;
+}
